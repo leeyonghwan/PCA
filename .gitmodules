@@ -1,0 +1,3 @@
+[submodule "tstsubmodul"]
+	path = tstsubmodul
+	url = https://github.com/leeyonghwan/testsub.git
